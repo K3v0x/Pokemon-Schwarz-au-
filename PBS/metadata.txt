@@ -166,6 +166,10 @@ MapPosition=0,11,7
 Outdoor=true
 BicycleAlways=true
 ShowArea=true
+[042]
+# Dark Gym
+BattleBack=EliteD
+DarkMap=true
 [044]
 # Route 6
 MapSize=2,11
