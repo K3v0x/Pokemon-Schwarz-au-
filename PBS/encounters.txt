@@ -50,7 +50,7 @@ HOOTHOOT,10,14
 RATTATA,15
 HOOTHOOT,14
 #########################
-021 # Route 2 old
+021 # Route 2
 25,10,10
 Land
 RATTATA,12,15
@@ -217,7 +217,7 @@ BURMY,12,15
 BURMY,12,15
 BURMY,12,15
 #########################
-033 # Route 1
+033 # St. Nikolai
 25,10,10
 LandDay
 PIDGEY,2,5

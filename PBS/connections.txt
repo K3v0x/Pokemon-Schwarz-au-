@@ -2,16 +2,14 @@
 2,North,0,5,South,4
 # Cedolan City (7) - Route 1 (5)
 7,South,0,5,North,2
-# Route 2 old (21) - Cedolan City (7)
+# Route 2 (21) - Cedolan City (7)
 21,South,0,7,North,21
-# Route 2 old (21) - Lerucean Town (23)
+# Route 2 (21) - Lerucean Town (23)
 21,East,0,23,West,1
 # Route 3 (31) - Lerucean Town (23)
 31,South,32,23,North,0
 # Route 3 (31) - Ingido Plateau (35)
 31,West,0,35,East,10
-# Ingido Plateau (35) - Route 4 (39)
-35,West,11,39,East,0
 # Cedolan City (7) - Route 6 (44)
 7,West,5,44,East,0
 # Route 7 (47) - Cedolan City (7)
@@ -24,17 +22,19 @@
 66,North,18,5,South,0
 # Route 8 (69) - Lappet Town (2)
 69,North,12,2,South,0
-# Route 5 (41) - Route 4 (40)
-41,North,0,40,South,0
-# Route 5 (41) - Route 6 (45)
-41,South,6,45,North,0
-# St. Nikolai (77) - Route 3 (82)
-77,East,22,82,West,0
-# Route 2 (43) - St. Nikolai (77)
-43,East,15,77,West,0
-# Route 1 (33) - Schwarzau (22)
-33,North,9,22,South,0
-# Seibutendorf (42) - Route 1 (33)
-42,West,0,33,East,4
-# Route 2 (43) - Seibutendorf (42)
-43,West,0,42,East,0
+# St. Nikolai (33) - Route 3 (82)
+33,East,22,82,West,0
+# Graz (43) - Route 3 (82)
+43,West,0,82,East,1
+# Route 1 (86) - Schwarzau (22)
+86,North,9,22,South,0
+# Route 2 (91) - St. Nikolai (33)
+91,East,15,33,West,0
+# Route 5 (41) - Route 4 (39)
+41,North,0,39,South,0
+# Graz (43) - Route 4 (39)
+43,South,0,39,North,28
+# Seibuttendorf (87) - Route 2 (91)
+87,East,0,91,West,0
+# Seibuttendorf (87) - Route 1 (86)
+87,West,0,86,East,4
