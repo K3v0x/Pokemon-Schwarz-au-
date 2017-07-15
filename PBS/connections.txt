@@ -10,8 +10,6 @@
 31,South,32,23,North,0
 # Route 3 (31) - Ingido Plateau (35)
 31,West,0,35,East,10
-# Cedolan City (7) - Route 6 (44)
-7,West,5,44,East,0
 # Route 7 (47) - Cedolan City (7)
 47,West,0,7,East,0
 # Route 7 (47) - Battle Frontier (52)
@@ -34,6 +32,8 @@
 41,North,0,39,South,0
 # Graz (43) - Route 4 (39)
 43,South,0,39,North,28
+# Route 5 (41) - Route 6 (45)
+41,South,6,45,North,0
 # Seibuttendorf (87) - Route 2 (91)
 87,East,0,91,West,0
 # Seibuttendorf (87) - Route 1 (86)

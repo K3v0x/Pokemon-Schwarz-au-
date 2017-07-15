@@ -86,6 +86,8 @@ Outdoor=true
 ShowArea=true
 [022]
 # Schwarzau
+Outdoor=true
+ShowArea=true
 [023]
 # Lerucean Town
 MapPosition=0,15,8
@@ -127,6 +129,10 @@ ShowArea=true
 # St. Nikolai
 BattleBack=Field
 Outdoor=true
+<<<<<<< HEAD
+=======
+ShowArea=true
+>>>>>>> 47869177fcd150ae58d213246864940c8ea6fcc7
 [034]
 # Ice Cave
 BattleBack=IndoorC
@@ -171,6 +177,10 @@ ShowArea=true
 # Dark Gym
 BattleBack=EliteD
 DarkMap=true
+[043]
+# Graz
+Outdoor=true
+ShowArea=true
 [044]
 # Route 6
 MapSize=2,11
@@ -306,11 +316,24 @@ MapPosition=0,12,10
 # Tiall Region
 MapPosition=1,13,16
 Outdoor=true
+[082]
+# Route 3
+Outdoor=true
+ShowArea=true
 [084]
 # Feuer Gym
 BattleBack=EliteC
+[086]
+# Route 1
+Outdoor=true
+ShowArea=true
 [087]
 # Seibuttendorf
 BattleBack=
 DarkMap=false
-Outdoor=false
+Outdoor=true
+ShowArea=true
+[091]
+# Route 2
+Outdoor=true
+ShowArea=true
