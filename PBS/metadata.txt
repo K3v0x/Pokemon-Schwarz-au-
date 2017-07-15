@@ -126,6 +126,7 @@ ShowArea=true
 [033]
 # St. Nikolai
 BattleBack=Field
+Outdoor=true
 [034]
 # Ice Cave
 BattleBack=IndoorC
